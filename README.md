@@ -18,6 +18,7 @@ Explore correlations between product attributes, review sentiments, and sales pe
 Develop recommendations for brand positioning, product improvements, and customer engagement strategies based on data-driven insights.
 
 Data Preprocessing:
+
 Load the dataset and perform necessary data cleaning and preprocessing, including handling missing values, removing duplicates, and converting data types as needed.
 Extract relevant features for analysis, such as review text, review rating, brand name, product title, and product attributes.
 Exploratory Data Analysis (EDA):
@@ -28,7 +29,9 @@ Sentiment Analysis:
 
 Perform sentiment analysis on customer reviews to categorize them as positive, negative, or neutral.
 Calculate sentiment scores and sentiment distributions for each brand and product to understand overall sentiment trends.
+
 Product Recommendations:
+
 Develop product recommendation models based on collaborative filtering or content-based filtering techniques.
 Collaborative filtering: Recommend products based on the purchasing behavior and review data of similar customers.
 Content-based filtering: Recommend products based on the attributes and characteristics of the customer's past reviews and preferences.
